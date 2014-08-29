@@ -1,0 +1,51 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1234" measuredH="631" mockupW="800" mockupH="600">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="434" y="31" w="800" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cole%E7%E3o%20-%20Arthur%20Ramos</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="__group__" x="534" y="129" w="600" h="121" measuredW="600" measuredH="121" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Cabe%E7alho</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::ButtonBar" x="0" y="94" w="600" h="27" measuredW="497" measuredH="27" zOrder="0" locked="false" isInGroup="13">
+          <controlProperties>
+            <selectedIndex>1</selectedIndex>
+            <text>In%EDcio%2C%20Sobre%20Arthur%20Ramos%2C%20Cole%E7%E3o%2C%20Depoimentos%2C%20Biblioteca%20Digital</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="600" h="79" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="13">
+          <controlProperties>
+            <text>Imagem</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="15" controlTypeID="__group__" x="434" y="540" w="799" h="46" measuredW="799" measuredH="46" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Rodap%E9</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="0" w="799" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="15"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="280" y="25" w="-1" h="-1" measuredW="239" measuredH="21" zOrder="1" locked="false" isInGroup="15">
+          <controlProperties>
+            <size>18</size>
+            <text>Rodap%E9%20com%20Licen%E7a%20e%20Apoio</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Image" x="544" y="278" w="140" h="128" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Foto</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::TextArea" x="699" y="278" w="427" h="232" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Arthur%20Ramos%20faz%20parte%20do%20pensamento%20cl%E1ssico%20brasileiro%20sobre%20a%20presen%E7a%20do%20negro%20na%20forma%E7%E3o%20da%20identidade%20nacional.%20Suas%20obras%20marcaram%20gera%E7%F5es%20de%20pesquisadores%20por%20todo%20o%20pa%EDs.%20No%20entanto%2C%20seus%20objetos%20etnogr%E1ficos%20constitu%EDram%20uma%20cole%E7%E3o%20e%20incentivou%20a%20cria%E7%E3o%20de%20um%20museu%20que%20muitos%20desconhecem.%20No%20que%20tange%20o%20acervo%20museal%20constitu%EDdo%20para%20o%20Instituto%20de%20Antropologia%20do%20Cear%E1%20n%E3o%20h%E1%20pesquisas%20acad%EAmicas%20locais%20sobre%20as%20cole%E7%F5es.%20%0A%20%0ANa%20Universidade%20Federal%20do%20Cear%E1%2C%20o%20curso%20de%20gradua%E7%E3o%20em%20Hist%F3ria%20iniciou-se%20em%201961%20em%202000%2C%20foi%20aberto%20o%20programa%20de%20p%F3s-gradua%E7%E3o%20em%20Hist%F3ria%20Social%20que%20conta%20com%20mestrado.%20A%20gradua%E7%E3o%20em%20Ci%EAncias%20Sociais%20iniciou%20as%20atividades%20em%201969%20e%20j%E1%20em%201976%20foi%20aberto%20o%20mestrado%2C%20tendo%20o%20doutorado%20com%20atividades%20a%20partir%20de%201994.%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
