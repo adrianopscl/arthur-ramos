@@ -29,11 +29,20 @@ html {
 
 body {
 	font-family: 'Abel', 'FonteTexto', sans-serif;
-	/*background-image: linear-gradient(#363736, #000);*/
-	background: #363736 url(../_imagens/background11.png);
+	color: #353635;
+	/*background-image: linear-gradient(#363736, #000);
+	background: #363736 url(../_imagens/background11.png);*/
 
 }
 
+	h1.titulo {
+		font-family: 'Poiret One', 'SubTitulo', cursive;
+		font-size: 1.6em;
+		color: #000;
+		border-bottom: 1px solid #000;
+		padding: 0.6%;
+		margin-bottom: 3%;
+	}
 	p {
 		text-align: justify;
 		font-size: 1.2em;
@@ -51,11 +60,13 @@ body {
 		}
 
 .container {
-	width: 80%; 
+	width: 100%;
+	/*height: 100%; */
 	margin: 0 auto;
-	background-color: #eeefed;
-	border-left: 7px solid #c1c1c0;
-	border-right: 7px solid #c1c1c0;
+	/*background-color: #eeefed;*/
+	background: #eeefed url('../_imagens/noise.png');
+	/*border-left: 7px solid #c1c1c0;
+	border-right: 7px solid #c1c1c0;*/
 }
 
 	.header {
@@ -66,18 +77,21 @@ body {
 		.header h2 {
 			font-family: 'Poiret One', 'SubTitulo', cursive;
 			font-size: 2.5em;
+			color: #000;
 			font-weight: normal;
 			text-transform: uppercase;
 			padding-top: 5%;
-			padding-left: 5%; 
+			padding-left: 10%; 
 		}
 
 		.header h1 {
 			font-family: 'Allura', 'Titulo', cursive;
 			font-size: 5.0em;
+			color: #000;
 			font-weight: normal;
 			text-shadow: 4px 4px 2px rgba(0,0,0,.3);
-			padding-left: 10%;
+			padding-left: 15%;
+			padding-bottom: 5%;
 		}
 
 		nav#menu {
@@ -93,6 +107,7 @@ body {
 				width: 100%;
 				list-style: none;
 				margin: 0;
+				box-shadow: 0 3px 3px rgba(0,0,0,.3);
 			}
 
 			nav#menu li {
@@ -105,7 +120,7 @@ body {
 			}
 
 				nav#menu li:hover {
-					background-color: #eeefed;
+					background-color: #baa2cb; /*#eeefed*/
 				}
 
 				.icon {
@@ -124,17 +139,18 @@ body {
 
 				nav#menu a:hover {
 					text-decoration: underline;
-					color: #363736;
+					color: #fff;
 				}
 
 
 	.content {
-		margin: 2%;
+		width: 80%;
+		margin: 0 auto;
 
 	}
 
 		article.depo {
-			margin: 5% 2.5%;
+			margin: 5% 0;
 			padding: 0;
 			/*border-bottom: 1px solid #303030;*/
 		}
@@ -181,3 +197,15 @@ body {
 			text-align: center;
 			margin-top: 15px;
 		}
+
+.clearfix::before,
+.clearfix::after {
+content: "";
+display: table;
+}
+.clearfix::after {
+clear: both;
+}
+.clearfix {
+*zoom: 1;
+}
